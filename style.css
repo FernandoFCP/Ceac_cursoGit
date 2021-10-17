@@ -1,0 +1,51 @@
+
+.titulo_jumbotron{
+    color:darkorange;
+    margin-top:-450px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+}
+
+.linha_jumbotron{
+    color: darkslategray;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: -70px;
+}
+
+.card-group{
+    margin: 500px;
+}
+
+.button{
+    background-color:rgb(247, 196, 133);
+    padding: 2%;
+    font-size: large;
+}
+
+#telalogin{
+    width: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 1px 5px 30px rgb(116, 110, 110);
+    opacity: 0.9;
+}
+
+#fundo{
+    background-color: rgb(233, 213, 32);
+    background-image: url("https://i.pinimg.com/736x/4b/63/b3/4b63b3bcb94cf20b73443984eace57e5.jpg");
+    background-attachment: fixed;
+    background-repeat:round;
+    
+}
+
+#telaIndex{
+    height: 1000px;
+}
